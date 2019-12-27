@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <linearGradient id="SVGID_16_" x1="236.94" x2="236.94" y1="430.06" y2="407.46" gradientTransform="matrix(.28223 0 0 -.28223 34.539 184.17)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#C2CECE" offset="0"/>
    <stop stop-color="#97AAAA" offset="1"/>
   </linearGradient>
-  <linearGradient id="SVGID_15_" x1="230.19" x2="230.19" y1="381.09" y2="405.16" gradientTransform="matrix(1.0667 0 0 -1.0667 3.2667 557.53)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="SVGID_15_" x1="230.19" x2="230.19" y1="381.09" y2="405.16" gradientTransform="matrix(1.0667,0,0,-1.0667,3.2667,557.53)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#1ACEB8" stop-opacity="0" offset="1e-4"/>
    <stop stop-color="#04959C" offset="1"/>
   </linearGradient>
@@ -22,7 +14,7 @@
    <stop stop-color="#C2D600" offset="0"/>
    <stop stop-color="#7BD101" offset="1"/>
   </linearGradient>
-  <linearGradient id="SVGID_13_" x1="333.74" x2="333.74" y1="379.29" y2="419.6" gradientTransform="matrix(1.0667 0 0 -1.0667 3.2667 557.53)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="SVGID_13_" x1="333.74" x2="333.74" y1="379.29" y2="419.6" gradientTransform="matrix(1.0667,0,0,-1.0667,3.2667,557.53)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#FFC200" stop-opacity="0" offset="0"/>
    <stop stop-color="#FF8E00" stop-opacity=".719" offset=".719"/>
    <stop stop-color="#FF7800" offset="1"/>
@@ -32,11 +24,11 @@
    <stop stop-color="#FFC954" offset=".427"/>
    <stop stop-color="#FFC200" offset="1"/>
   </linearGradient>
-  <linearGradient id="SVGID_11_" x1="413.73" x2="276.51" y1="341.28" y2="478.5" gradientTransform="matrix(1.0667 0 0 -1.0667 3.2667 557.53)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="SVGID_11_" x1="413.73" x2="276.51" y1="341.28" y2="478.5" gradientTransform="matrix(1.0667,0,0,-1.0667,3.2667,557.53)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#363F3E" stop-opacity="0" offset="0"/>
    <stop stop-color="#303033" offset="1"/>
   </linearGradient>
-  <linearGradient id="SVGID_10_" x1="316.01" x2="164.33" y1="329.76" y2="481.45" gradientTransform="matrix(1.0667 0 0 -1.0667 3.2667 557.53)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="SVGID_10_" x1="316.01" x2="164.33" y1="329.76" y2="481.45" gradientTransform="matrix(1.0667,0,0,-1.0667,3.2667,557.53)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#363F3E" stop-opacity="0" offset="0"/>
    <stop stop-color="#303033" offset="1"/>
   </linearGradient>
@@ -77,24 +69,35 @@
    <stop stop-color="#97AAAA" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(1.244 0 0 1.244 -24.741 -25.47)">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-302.94" cy="-325.41" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-311.62" cy="-325.5" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="matrix(.10848 0 0 .10848 -2.5093 -2.8263)">
   <g stroke-width=".26458">
    <path d="m64.216 162.59h74.385v3.1808c0 3.5089-2.8445 6.3534-6.3534 6.3534h-61.678c-3.5089 0-6.3534-2.8445-6.3534-6.3534v-3.1808z" fill="url(#SVGID_1_)"/>
    <path d="m138.6 165.77v-3.1808h-74.385v3.1808l6.3534 6.3534h61.679c3.5089 0 6.3534-2.8445 6.3534-6.3534z" fill="url(#SVGID_2_)"/>
    <path d="m156.13 63.676-9.6078 94.533c-0.4355 4.2857-4.0444 7.5467-8.3524 7.5467h-73.532c-4.3082 0-7.9169-3.2607-8.3524-7.5467l-9.6081-94.533c-0.50271-4.9469 3.38-9.2445 8.3524-9.2445h92.748c4.9726 2.64e-4 8.8553 4.2976 8.3526 9.2445z" fill="url(#SVGID_3_)"/>
    <path d="m146.53 158.21 1.088-10.705h-92.413l1.088 10.705c0.43551 4.2857 4.0444 7.5467 8.3524 7.5467h73.532c4.3082-5.3e-4 7.9169-3.261 8.3526-7.5467z" fill="url(#SVGID_4_)"/>
    <path d="m75.19 151.88c-3.8666 0-7.2443-3.1575-7.5486-7.1168l-6.1407-79.857c-0.43365-5.6412 3.048-10.305 7.7856-10.305 4.7374 0 8.7855 4.6638 9.0366 10.305l3.552 79.857c0.17595 3.9592-2.8181 7.1168-6.685 7.1168z" fill="url(#SVGID_5_)"/>
-   <path d="m101.41 151.88c-3.8666 0-7.0527-3.1575-7.1168-7.1168l-1.2943-79.857c-0.0913-5.6412 3.6737-10.305 8.4111-10.305 4.7374 0 8.5024 4.6638 8.4111 10.305l-1.2943 79.857c-0.064 3.9598-3.2501 7.1173-7.1168 7.1173z" fill="url(#SVGID_6_)"/>
+   <path d="m101.41 151.88c-3.8666 0-7.0527-3.1575-7.1168-7.1168l-1.2943-79.857c-0.0913-5.6412 3.6737-10.305 8.4111-10.305s8.5024 4.6638 8.4111 10.305l-1.2943 79.857c-0.064 3.9598-3.2501 7.1173-7.1168 7.1173z" fill="url(#SVGID_6_)"/>
    <path d="m127.63 151.88c-3.8666 0-6.8612-3.1575-6.685-7.1168l3.552-79.857c0.25082-5.6412 4.2987-10.305 9.0366-10.305 4.7374 0 8.2195 4.6638 7.7856 10.305l-6.1407 79.857c-0.30427 3.9592-3.6817 7.1168-7.5486 7.1168z" fill="url(#SVGID_7_)"/>
    <path d="m46.682 63.676 0.68395 6.7286 94.495 94.495c2.5315-1.2398 4.3632-3.7174 4.6654-6.6916l9.6078-94.533c0.50297-4.9469-3.38-9.2445-8.3524-9.2445h-92.748c-4.9726 7.93e-4 -8.8553 4.2982-8.3526 9.2451z" fill="url(#SVGID_8_)"/>
    <path d="m125.71 51.139h-48.595v-4.8308c0-5.3287 4.3198-9.6483 9.6486-9.6483h29.299c5.3287 0 9.6483 4.3196 9.6483 9.6483z" fill="url(#SVGID_9_)"/>
   </g>
-  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="177.72 114.24 435.42 371.93 447.69 251.18 319.88 114.24" fill="url(#SVGID_10_)"/>
-  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="443.84 289.05 461.6 114.24 269.03 114.24" fill="url(#SVGID_11_)"/>
+  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="447.69 251.18 319.88 114.24 177.72 114.24 435.42 371.93" fill="url(#SVGID_10_)"/>
+  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="461.6 114.24 269.03 114.24 443.84 289.05" fill="url(#SVGID_11_)"/>
   <path d="m152.6 66.886-21.099 21.099c-1.5296 1.5296-4.0098 1.5296-5.5396 2.6e-4l-21.103-21.1z" fill="url(#SVGID_12_)" stroke-width=".26458"/>
-  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="449.47 114.24 269.03 114.24 308.4 153.6 410.11 153.6" fill="url(#SVGID_13_)"/>
+  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="308.4 153.6 410.11 153.6 449.47 114.24 269.03 114.24" fill="url(#SVGID_13_)"/>
   <path d="m118.31 66.886-16.622 16.622c-1.2052 1.2052-3.1589 1.2052-4.364 2.7e-4l-16.625-16.622h37.611z" fill="url(#SVGID_14_)" stroke-width=".26458"/>
-  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="319.88 114.24 177.72 114.24 217.09 153.6 280.52 153.6" fill="url(#SVGID_15_)"/>
+  <polygon transform="matrix(.26458 0 0 .26458 33.675 36.66)" points="217.09 153.6 280.52 153.6 319.88 114.24 177.72 114.24" fill="url(#SVGID_15_)"/>
   <path d="m162.46 68.918h-122.11c-3.3229 0-6.0166-2.6937-6.0166-6.0169v-8.1124c0-3.3229 2.6937-6.0169 6.0166-6.0169h122.11c3.3229 0 6.0166 2.6937 6.0166 6.0169v8.1124c0 3.3232-2.6937 6.0169-6.0166 6.0169z" fill="url(#SVGID_16_)" stroke-width=".26458"/>
  </g>
 </svg>
