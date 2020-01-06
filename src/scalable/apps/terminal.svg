@@ -3,8 +3,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient1005-6" x1=".73911" x2="16.388" y1="16.296" y2=".64687" gradientTransform="matrix(.91665 0 0 .91665 .67327 .71162)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4b4b4b" offset="0"/>
-   <stop stop-color="#323232" offset=".49575"/>
+   <stop stop-color="#323232" offset="0"/>
+   <stop stop-color="#4e4e4e" offset=".49575"/>
    <stop stop-color="#323232" offset="1"/>
   </linearGradient>
  </defs>
