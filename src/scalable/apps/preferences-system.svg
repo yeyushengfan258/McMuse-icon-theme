@@ -158,13 +158,13 @@
   <clipPath id="clipPath29400">
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
-  <linearGradient id="linearGradient2299" x1="-90.581" x2="-90.581" y1="2.3395" y2="-9.213" gradientTransform="translate(91.859 -9.3542)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2297"/>
+  <linearGradient id="linearGradient2299" x1="-90.581" x2="-90.581" y1="2.3395" y2="-9.213" gradientTransform="translate(91.859,-9.3542)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2297"/>
   <linearGradient id="linearGradient924" x1="162.61" x2="162.61" y1="15.335" y2="27.41" gradientTransform="matrix(.60101 0 0 .60101 -96.361 -25.471)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2401"/>
   <linearGradient id="linearGradient2389" x1="162.64" x2="162.64" y1="13.7" y2="27.83" gradientUnits="userSpaceOnUse">
    <stop stop-color="#b4c3c8" offset="0"/>
    <stop stop-color="#7396a0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient2409" x1="-1.1063" x2="-5.5042" y1="90.319" y2="90.319" gradientTransform="translate(-9.3542 -91.859)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2297"/>
+  <linearGradient id="linearGradient2409" x1="-1.1063" x2="-5.5042" y1="90.319" y2="90.319" gradientTransform="translate(-9.3542,-91.859)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2297"/>
   <linearGradient id="linearGradient2413" x1="-3.7251" x2="-.19643" y1="90.319" y2="90.319" gradientTransform="matrix(.55402 0 0 .55402 -10.814 -51.534)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2401"/>
   <filter id="filter2425" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.038208282"/>
@@ -175,6 +175,7 @@
   <filter id="filter2461" x="-.036909" y="-.035134" width="1.0738" height="1.0703" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.22354258"/>
   </filter>
+  <linearGradient id="linearGradient1420" x1="162.64" x2="162.64" y1="13.7" y2="27.83" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2389"/>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -507,7 +508,7 @@
    </g>
   </g>
  </g>
- <g transform="translate(7.1092 21.328)">
+ <g transform="matrix(1.0909 0 0 1.0909 6.9859 22.497)">
   <path d="m8.6331-12.861c0 0.87223-0.15353 1.7085-0.43508 2.4836-0.19571 0.5387-0.45318 1.048-0.76442 1.5191-0.13037 0.19807-0.27054 0.38935-0.41933 0.57317-0.47634 0.5883-1.0424 1.1006-1.6779 1.5164-0.23402 0.15324-0.47725 0.29342-0.72907 0.41902-0.97788 0.48939-2.0818 0.76468-3.2501 0.76468s-2.2722-0.27529-3.2501-0.7647c-0.25184-0.12563-0.49536-0.2658-0.72938-0.41902-0.64355-0.42141-1.2164-0.94176-1.6966-1.5398-0.14907-0.18531-0.28896-0.37835-0.41933-0.5782-0.30292-0.46327-0.55385-0.96312-0.74569-1.4914-0.28151-0.77483-0.43477-1.6108-0.43477-2.4827 0-4.0184 3.2575-7.2759 7.2759-7.2759 2.0171 0 3.8423 0.82084 5.1603 2.1465 0.37982 0.38189 0.7175 0.806 1.0049 1.2645 0.27174 0.43181 0.49891 0.89448 0.67561 1.3812 0.28158 0.77511 0.4351 1.6114 0.4351 2.4836z" fill="url(#linearGradient1005-2)" stroke-width=".028422"/>
   <path d="m7.2831-12.861c0 0.71039-0.12504 1.3915-0.35435 2.0228-0.1594 0.43875-0.36909 0.85355-0.62258 1.2372-0.10618 0.16132-0.22034 0.31711-0.34152 0.46682-0.38796 0.47914-0.84898 0.89639-1.3666 1.235-0.1906 0.12481-0.3887 0.23898-0.59379 0.34127-0.79644 0.39858-1.6955 0.6228-2.6471 0.6228-0.95152 0-1.8506-0.22421-2.647-0.62281-0.20511-0.10232-0.40345-0.21648-0.59404-0.34127-0.52414-0.34322-0.9907-0.76702-1.3818-1.2541-0.12141-0.15093-0.23534-0.30815-0.34152-0.47092-0.24671-0.37731-0.45108-0.78442-0.60733-1.2147-0.22928-0.63106-0.3541-1.3119-0.3541-2.022 0-3.2728 2.6531-5.9259 5.9259-5.9259 1.6428 0 3.1294 0.66854 4.2028 1.7482 0.30934 0.31103 0.58437 0.65645 0.81844 1.0299 0.22132 0.35169 0.40634 0.72851 0.55025 1.1249 0.22933 0.63129 0.35437 1.3124 0.35437 2.0228z" fill="url(#linearGradient2299)" stroke-width=".023148"/>
   <g transform="matrix(.61857 0 0 .60044 -99.219 -25.201)" filter="url(#filter2461)" opacity=".3">
@@ -519,7 +520,7 @@
    <path d="m156.74 16.486-1.2052 2.0875c-0.1173 0.20318-0.0309 0.43536 0.155 0.57849l1.5929 1.2266c0.18589 0.14312 0.46119 0.04817 0.57849-0.15501l1.4931-2.5862c0.1173-0.20318 0.0638-0.49383-0.15501-0.5785l-1.8808-0.72788c-0.21881-0.08464-0.46119-0.04816-0.57849 0.15503z"/>
   </g>
   <circle transform="matrix(1.0262 0 0 .99694 94.226 -9.2237)" cx="-90.418" cy="-3.2722" r="3.6743" filter="url(#filter2443)" opacity=".3"/>
-  <g transform="matrix(.60101 0 0 .60101 -96.361 -25.444)" fill="url(#linearGradient2389)">
+  <g transform="matrix(.60101 0 0 .60101 -96.361 -25.444)" fill="url(#linearGradient1420)">
    <path d="m161.55 13.692h2.4104c0.23461 0 0.39247 0.19093 0.42349 0.42348l0.26577 1.9928c0.031 0.23255-0.18888 0.42348-0.42349 0.42348h-2.9862c-0.23461 0-0.45956-0.19166-0.42349-0.42348l0.31006-1.9928c0.0361-0.23182 0.18888-0.42348 0.4235-0.42348z"/>
    <path d="m161.55 28.962h2.4104c0.23461 0 0.39247-0.19093 0.42349-0.42348l0.26577-1.9928c0.031-0.23255-0.18888-0.42348-0.42349-0.42348h-2.9862c-0.23461 0-0.45956 0.19166-0.42349 0.42348l0.31006 1.9928c0.0361 0.23182 0.18888 0.42348 0.4235 0.42348z"/>
    <path d="m168.75 16.486 1.2052 2.0875c0.1173 0.20318 0.0309 0.43536-0.15501 0.5785l-1.5929 1.2266c-0.18589 0.14312-0.46119 0.04817-0.57849-0.15501l-1.4931-2.5862c-0.1173-0.20318-0.0638-0.49382 0.15501-0.5785l1.8808-0.72788c0.21882-0.08465 0.46119-0.04817 0.5785 0.15502z"/>
@@ -534,7 +535,7 @@
    <rect transform="rotate(60)" x="-10.662" y="-6.472" width=".93542" height="1.2511" ry=".20928" opacity=".7" style="paint-order:stroke fill markers"/>
    <rect transform="rotate(120)" x="-12.103" y="2.7251" width=".93542" height="1.2511" ry=".20928" opacity=".7" style="paint-order:stroke fill markers"/>
   </g>
-  <circle transform="matrix(0 1.0303 -1.0303 0 94.6 -9.1475)" cx="-3.2722" cy="90.418" r="1.2736" filter="url(#filter2425)" opacity=".3"/>
+  <circle transform="matrix(0,1.0303,-1.0303,0,94.6,-9.1475)" cx="-3.2722" cy="90.418" r="1.2736" filter="url(#filter2425)" opacity=".3"/>
   <circle transform="rotate(90)" cx="-12.626" cy="-1.4409" r="1.2736" fill="url(#linearGradient2413)"/>
  </g>
 </svg>
