@@ -1,4 +1,4 @@
-## Citrus Icon Theme
+## McMuse Icon Theme
 A colorful design icon theme for linux desktops
 
 ## Install
