@@ -1,9 +1,9 @@
-## McMuse Icon Theme
-A colorful design icon theme for linux desktops
+## Tencent Icon Theme
+A colorful design icon theme for all linux desktops!
 
 ## Install
 
 `./install.sh`
 
 ## view
-![McMuse](https://github.com/yeyushengfan258/Citrus-icon-theme/blob/master/view.png?raw=true)
+![Tencent](https://github.com/yeyushengfan258/Tencent-icon-theme/blob/master/view.png?raw=true)
