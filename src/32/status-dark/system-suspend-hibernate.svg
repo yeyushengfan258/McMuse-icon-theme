@@ -10,13 +10,11 @@
    width="32"
    height="32"
    version="1.1"
-   id="svg23"
+   id="svg25"
    sodipodi:docname="system-suspend-hibernate.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
-  <defs
-     id="defs27" />
   <sodipodi:namedview
-     pagecolor="#c8c8c8"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -24,17 +22,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview25"
+     inkscape:window-width="857"
+     inkscape:window-height="480"
+     id="namedview27"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-33.627119"
+     inkscape:cx="1.4237288"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg23" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -47,25 +45,77 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs13">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+    <style
+       type="text/css"
+       id="style5">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       type="text/css"
+       id="style7" />
+    <style
+       type="text/css"
+       id="style9">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       type="text/css"
+       id="style11" />
+  </defs>
   <g
-     id="g944"
-     transform="matrix(0.9338224,0,0,0.9338224,-40.029345,46.816141)"
-     style="stroke:#ffffff;stroke-opacity:1">
-    <circle
-       transform="rotate(-45)"
-       r="13.750055"
-       cy="19.091883"
-       cx="65.760933"
-       id="path912"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.49988961;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+     transform="translate(38)"
+     id="g23">
     <rect
-       transform="rotate(-45)"
-       ry="0.27809763"
-       y="18.804934"
-       x="51.588139"
-       height="0.55619526"
-       width="28.345583"
-       id="rect922"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.6544174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+       x="-38"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       color="#333333"
+       opacity="0"
+       stroke-width="2"
+       id="rect17" />
+    <circle
+       cx="-22"
+       cy="16"
+       r="16"
+       color="#333333"
+       opacity="0"
+       id="circle19" />
+    <path
+       d="m-22 1a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm3.5352 6.6191a0.50005 0.50005 0 0 1 0.01953 0 0.50005 0.50005 0 0 1 0.24609 0.070312c0.83611 0.45728 1.5757 1.0344 2.2051 1.7031 1.8881 2.0061 2.779 4.8273 2.2812 7.6426-0.6637 3.7537-3.6511 6.6688-7.4199 7.2402-3.698 0.56064-7.3413-1.26-9.127-4.5293a0.50005 0.50005 0 0 1-0.14258-0.2793 0.50032 0.50032 0 0 1 0-2e-3 0.50032 0.50032 0 0 1 0.81055-0.51172c2.9652 0.83486 6.1546 0.04179 8.373-2.1074 2.2582-2.1877 3.1516-5.424 2.3379-8.4609a0.50005 0.50005 0 0 1-2e-3 -0.00586 0.50005 0.50005 0 0 1 0.41797-0.75976zm-10.035 1.3809h5c0.06315 4.8e-4 0.12608 0.01291 0.18555 0.03711 0.12695 0.05061 0.22674 0.15039 0.27734 0.27734 0.022899 0.057431 0.037115 0.11976 0.037115 0.18555 1e-5 0.0013 0 0.0026 0 0.0039 0 0.0653-0.01371 0.13003-0.03906 0.19141-0.02468 0.05975-0.06067 0.11731-0.10938 0.16602l-4.1387 4.1387h3.7871c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-4.9961c-0.0013 0-0.0026 1e-5 -0.0039 0-0.06579 0-0.12812-0.01422-0.18555-0.03711-0.12696-0.05061-0.22674-0.15039-0.27734-0.27734-0.024202-0.059456-0.036635-0.1224-0.037115-0.18555 0-6.66e-4 -3e-6 -0.0013 0-2e-3 -2e-6 -6.4e-4 0-0.0013 0-2e-3 0-0.12885 0.04969-0.25868 0.14844-0.35742l4.1387-4.1386h-3.7871c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5zm10.797 0.19922c0.45698 3.059-0.56939 6.1826-2.8223 8.3652-2.2164 2.1472-5.3041 3.0852-8.3008 2.5879 1.7145 2.3406 4.6075 3.5798 7.543 3.1348 3.3484-0.50764 5.9982-3.0909 6.5879-6.4258 0.52124-2.948-0.67206-5.8953-3.0078-7.6621z"
+       fill="#f32525"
+       fill-opacity=".99216"
+       id="path21" />
   </g>
 </svg>

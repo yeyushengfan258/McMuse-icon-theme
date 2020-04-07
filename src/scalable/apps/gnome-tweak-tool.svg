@@ -19,7 +19,7 @@
    <stop stop-color="#8d3aff" offset="0"/>
    <stop stop-color="#ff3680" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient2672" x1="78.28" x2="78.28" y1="34.889" y2="28.539" gradientTransform="translate(18.84 -7.4518)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient2672" x1="78.28" x2="78.28" y1="34.889" y2="28.539" gradientTransform="translate(18.84,-7.4518)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#e7fbfc" offset="0"/>
    <stop stop-color="#fefefc" offset="1"/>
   </linearGradient>
@@ -27,17 +27,17 @@
    <stop stop-color="#466e7d" offset="0"/>
    <stop stop-color="#6e919b" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1038" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -24.196 -28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <radialGradient id="radialGradient1048" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672 0 0 1.4672 -24.196 -28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
-  <linearGradient id="linearGradient1056" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -12.908 -28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <radialGradient id="radialGradient1062" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672 0 0 1.4672 -24.834 -79.988)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
-  <linearGradient id="linearGradient1064" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -24.834 -79.988)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <radialGradient id="radialGradient1074" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672 0 0 1.4672 -51.341 -124.62)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
-  <linearGradient id="linearGradient1076" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -51.341 -124.62)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <radialGradient id="radialGradient1086" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672 0 0 1.4672 -96.615 -150.03)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
-  <linearGradient id="linearGradient1088" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -96.615 -150.03)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <linearGradient id="linearGradient1108" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -148.52 -149.39)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
-  <linearGradient id="linearGradient1120" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672 0 0 1.4672 -193.16 -122.88)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <linearGradient id="linearGradient1038" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-24.196,-28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <radialGradient id="radialGradient1048" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672,0,0,1.4672,-24.196,-28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
+  <linearGradient id="linearGradient1056" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-12.908,-28.078)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <radialGradient id="radialGradient1062" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672,0,0,1.4672,-24.834,-79.988)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
+  <linearGradient id="linearGradient1064" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-24.834,-79.988)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <radialGradient id="radialGradient1074" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672,0,0,1.4672,-51.341,-124.62)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
+  <linearGradient id="linearGradient1076" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-51.341,-124.62)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <radialGradient id="radialGradient1086" cx="78.88" cy="36.016" r=".37431" gradientTransform="matrix(1.4672,0,0,1.4672,-96.615,-150.03)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1046"/>
+  <linearGradient id="linearGradient1088" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-96.615,-150.03)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <linearGradient id="linearGradient1108" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-148.52,-149.39)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
+  <linearGradient id="linearGradient1120" x1="78.515" x2="79.251" y1="36.374" y2="35.635" gradientTransform="matrix(1.4672,0,0,1.4672,-193.16,-122.88)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1036"/>
   <filter id="filter1136" x="-.067753" y="-.053987" width="1.1355" height="1.108" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14286305"/>
   </filter>
@@ -51,7 +51,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(-88.653 -16.298)">
+ <g transform="matrix(1.0909 0 0 1.0909 -97.488 -18.55)">
   <path d="m104.4 24.765c0 0.87223-0.15353 1.7085-0.43508 2.4836-0.19571 0.5387-0.45318 1.048-0.76442 1.5191-0.13037 0.19807-0.27054 0.38935-0.41933 0.57317-0.47634 0.5883-1.0424 1.1006-1.6779 1.5164-0.23402 0.15324-0.47725 0.29342-0.72907 0.41902-0.97788 0.48939-2.0818 0.76468-3.2501 0.76468s-2.2722-0.27529-3.2501-0.7647c-0.25184-0.12563-0.49536-0.2658-0.72938-0.41902-0.64355-0.42141-1.2164-0.94176-1.6966-1.5398-0.14907-0.18531-0.28896-0.37835-0.41933-0.5782-0.30292-0.46327-0.55385-0.96312-0.74569-1.4914-0.28151-0.77483-0.43477-1.6108-0.43477-2.4827 0-4.0184 3.2575-7.2759 7.2759-7.2759 2.0171 0 3.8423 0.82084 5.1603 2.1465 0.37982 0.38189 0.7175 0.806 1.0049 1.2645 0.27174 0.43181 0.49891 0.89448 0.67561 1.3812 0.28158 0.77511 0.4351 1.6114 0.4351 2.4836z" fill="url(#linearGradient2676)" stroke-width=".028422"/>
   <path transform="matrix(.99686 0 0 1.06 .30544 -.80232)" d="m97.12 20.657c-0.04854 0.0012-0.09504 0.0192-0.10852 0.05012-0.02298 0.05361-0.3775 0.92564-0.54104 1.3275-1.0826 0.2868-1.8815 1.2704-1.8815 2.4432 0 0.30321 0.05299 0.59404 0.15089 0.8635 0.06671 0.18372 0.15406 0.35719 0.25941 0.5183 0.04533 0.0695 0.09388 0.13657 0.14572 0.20102 0.16699 0.20798 0.36633 0.38932 0.59013 0.53587 0.08138 0.05329 0.16614 0.10204 0.25372 0.14572 0.34008 0.1702 0.72385 0.26561 1.1301 0.26561 0.40629 0 0.79007-0.09542 1.1301-0.26561 0.08757-0.04367 0.17234-0.09243 0.25372-0.14572 0.221-0.1446 0.41776-0.32302 0.58342-0.52761 0.05174-0.06393 0.10039-0.13059 0.14572-0.19947 0.10824-0.16383 0.19807-0.34078 0.26613-0.52812 0.09792-0.26955 0.15141-0.56017 0.15141-0.8635 0-0.30332-0.05348-0.59446-0.15141-0.86402-0.06145-0.16926-0.14062-0.3299-0.23512-0.48006-0.09995-0.15945-0.21724-0.30695-0.34932-0.43976-0.30873-0.31052-0.69849-0.53864-1.1338-0.65628-0.15526-0.3904-0.50706-1.2727-0.54052-1.3306-0.02065-0.03577-0.07082-0.05134-0.11937-0.05012z" filter="url(#filter1136)" opacity=".35"/>
   <path d="m97.12 21.087c-0.04854 0.0012-0.09504 0.0192-0.10852 0.05012-0.02298 0.05361-0.3775 0.92564-0.54104 1.3275-1.0826 0.2868-1.8815 1.2704-1.8815 2.4432 0 0.30321 0.05299 0.59404 0.15089 0.8635 0.06671 0.18372 0.15406 0.35719 0.25941 0.5183 0.04533 0.0695 0.09388 0.13657 0.14572 0.20102 0.16699 0.20798 0.36633 0.38932 0.59013 0.53587 0.08138 0.05329 0.16614 0.10204 0.25372 0.14572 0.34008 0.1702 0.72385 0.26561 1.1301 0.26561 0.40629 0 0.79007-0.09542 1.1301-0.26561 0.08757-0.04367 0.17234-0.09243 0.25372-0.14572 0.221-0.1446 0.41776-0.32302 0.58342-0.52761 0.05174-0.06393 0.10039-0.13059 0.14572-0.19947 0.10824-0.16383 0.19807-0.34078 0.26613-0.52812 0.09792-0.26955 0.15141-0.56017 0.15141-0.8635 0-0.30332-0.05348-0.59446-0.15141-0.86402-0.06145-0.16926-0.14062-0.3299-0.23512-0.48006-0.09995-0.15945-0.21724-0.30695-0.34932-0.43976-0.30873-0.31052-0.69849-0.53864-1.1338-0.65628-0.15526-0.3904-0.50706-1.2727-0.54052-1.3306-0.02065-0.03577-0.07082-0.05134-0.11937-0.05012z" fill="url(#linearGradient2672)"/>

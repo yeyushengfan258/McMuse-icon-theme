@@ -290,12 +290,11 @@
   <clipPath id="clipPath29400-4">
    <path d="m155 83.24h44v53h-44z"/>
   </clipPath>
-  <linearGradient id="linearGradient1070" x1="35.2" x2="35.2" y1="8.885" y2="-.11215" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient2609" x1="35.2" x2="35.2" y1="8.885" y2="-.11215" gradientUnits="userSpaceOnUse">
    <stop stop-color="#dcf0ff" offset="0"/>
    <stop stop-color="#fff" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient2609" x1="35.2" x2="35.2" y1="8.885" y2="-.11215" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1070"/>
-  <linearGradient id="linearGradient3016" x1="-185.29" x2="-178.3" y1="-.14299" y2="-13.59" gradientTransform="matrix(3.9712 0 0 3.266 736.82 59.902)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient3016" x1="-185.29" x2="-178.3" y1="-.14299" y2="-13.59" gradientTransform="matrix(1.0545 0 0 .99997 195.63 17.008)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#0a87d2" offset="0"/>
    <stop stop-color="#2db9f5" offset="1"/>
   </linearGradient>
@@ -965,7 +964,7 @@
    </g>
   </g>
  </g>
- <path transform="scale(.26458)" d="m7.0703 8.2402c-2.1962 0-3.9648 1.7685-3.9648 3.9648v39.598c0 2.1962 1.7685 3.9648 3.9648 3.9648h27.941c-2.17e-4 -6.32e-4 2.18e-4 -0.001324 0-0.001953h21.918c2.1962 0 3.9648-1.7685 3.9648-3.9648v-39.596c0-2.1962-1.7685-3.9648-3.9648-3.9648h-22.049-27.811zm24.486 27.221c-0.45232 0.040094-0.87484 0.10873-1.1719 0.13867 0.29704-0.02996 0.71956-0.098594 1.1719-0.13867z" fill="url(#linearGradient3016)" stroke-width="3.6015"/>
+ <path d="m1.8466 1.1906c-0.58319 0-1.0528 0.54147-1.0528 1.2139v12.124c0 0.67242 0.46962 1.2139 1.0528 1.2139h7.4196c-5.76e-5 -1.94e-4 5.79e-5 -4.06e-4 0-5.98e-4h5.8202c0.58319 0 1.0528-0.54147 1.0528-1.2139v-12.123c0-0.67242-0.46962-1.2139-1.0528-1.2139h-13.24zm6.5022 8.3344c-0.12011 0.012276-0.23231 0.033291-0.31119 0.042457 0.078878-0.00918 0.19108-0.030187 0.31119-0.042457z" fill="url(#linearGradient3016)" stroke-width="1.0269"/>
  <g transform="translate(24.395 -1.435)" fill="#5e4aa6" stroke-width=".26458">
   <circle cx="-322.63" cy="-345.67" r="0"/>
   <circle cx="-31.726" cy="-10.849" r="0" fill-rule="evenodd"/>
