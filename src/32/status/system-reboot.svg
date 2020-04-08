@@ -22,16 +22,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="857"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="981"
      id="namedview19"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="5.2149125"
+     inkscape:cx="-1.2074447"
+     inkscape:cy="7.5033044"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg17" />
   <metadata
      id="metadata2">
@@ -79,29 +79,112 @@
       .ColorScheme-ButtonFocus{
         color:#2B74C7;
       }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+    <style
+       id="style822"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="style824"
+       type="text/css" />
+    <style
+       id="style826"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="style828"
+       type="text/css" />
   </defs>
   <g
      transform="translate(118)"
-     id="g15">
+     id="system-reboot">
+    <g
+       transform="translate(0,39)"
+       id="g1182">
+      <circle
+         style="opacity:1;fill:#f22626;fill-opacity:0.99215686;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1139"
+         cx="-102"
+         cy="-23"
+         r="15" />
+      <g
+         id="g1147">
+        <rect
+           style="opacity:1;fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.11803389;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect1370"
+           width="5"
+           height="1"
+           x="-30"
+           y="-111"
+           ry="0.5"
+           transform="matrix(0,1,1,0,0,0)" />
+        <path
+           d="m -59.613458,-96.022283 a 8.5031691,8.5031691 0 0 1 10.746874,2.800299 8.5031691,8.5031691 0 0 1 -1.18905,11.041882 8.5031691,8.5031691 0 0 1 -11.096676,0.448066 8.5031691,8.5031691 0 0 1 -2.075435,-10.910067"
+           sodipodi:open="true"
+           sodipodi:end="3.6651914"
+           sodipodi:start="4.2557058"
+           sodipodi:ry="8.5031691"
+           sodipodi:rx="8.5031691"
+           sodipodi:cy="-88.390518"
+           sodipodi:cx="-55.863785"
+           sodipodi:type="arc"
+           id="path1372"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:0.99994916;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="rotate(-45)" />
+        <rect
+           transform="scale(-1,1)"
+           ry="0.5"
+           y="-26"
+           x="106"
+           height="1"
+           width="5"
+           id="rect1374"
+           style="opacity:1;fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.11803389;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+    </g>
     <rect
-       x="-118"
-       width="32"
-       height="32"
-       rx="0"
+       style="color:#333333;opacity:0;fill:#333333;stroke-width:2"
+       id="rect101"
        ry="0"
-       color="#333333"
-       opacity="0"
-       stroke-width="2"
-       id="rect7" />
+       rx="0"
+       height="32"
+       width="32"
+       y="0"
+       x="-118" />
     <path
-       d="m-102 0c-8.8286 0-16 7.1714-16 16s7.1714 16 16 16c8.8275 0 16-7.1714 16-16 0-8.8275-7.1714-16-16-16z"
-       color="#000000"
-       opacity="0"
+       style="color:#000000;overflow:visible;opacity:0;fill:#333333"
+       inkscape:connector-curvature="0"
+       id="path103"
        overflow="visible"
-       id="path9" />
-    <path
-       d="m-102 1a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0.39258 6.0039c0.40755 0.017947 0.81749 0.065369 1.2285 0.14062 4.3843 0.80273 7.5261 4.7016 7.377 9.1562-0.1491 4.4547-3.5445 8.1348-7.9727 8.6426-4.4282 0.50777-8.5671-2.308-9.7207-6.6133a0.50002 0.50002 0 1 1 0.96484-0.25781c1.0273 3.8338 4.6994 6.3311 8.6426 5.8789 3.9432-0.45216 6.9532-3.7168 7.0859-7.6836 0.13276-3.9668-2.6545-7.4239-6.5586-8.1387-3.756-0.6877-7.4344 1.3694-8.8496 4.8711h2.9102c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-4c-0.277 0-0.5-0.223-0.5-0.5v-4c0-0.277 0.223-0.5 0.5-0.5s0.5 0.223 0.5 0.5v2.3887c0.29853-0.58087 0.64842-1.1253 1.0547-1.6172 1.7739-2.1478 4.485-3.3932 7.3379-3.2676z"
-       fill="#ff8200"
-       id="path13" />
+       d="m -102,0 c -8.8286,0 -16,7.1714 -16,16 0,8.8286 7.1714,16 16,16 8.8275,0 16,-7.1714 16,-16 0,-8.8275 -7.1714,-16 -16,-16 z" />
   </g>
 </svg>

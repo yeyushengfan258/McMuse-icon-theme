@@ -22,16 +22,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="857"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="981"
      id="namedview29"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="1.4237288"
-     inkscape:cy="16"
+     inkscape:cx="25.830508"
+     inkscape:cy="26.033898"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg27" />
   <metadata
      id="metadata2">
@@ -123,29 +123,111 @@
       .ColorScheme-ButtonFocus{
         color:#2B74C7;
       }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+    <style
+       id="style5-7"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="style7-5"
+       type="text/css" />
+    <style
+       id="style9-3"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="style11-5"
+       type="text/css" />
   </defs>
   <g
      transform="translate(158)"
-     id="g25">
+     id="system-suspend">
+    <g
+       transform="translate(0,39)"
+       id="g966">
+      <circle
+         r="15"
+         cy="-23"
+         cx="-142"
+         id="circle1079"
+         style="opacity:1;fill:#f52323;fill-opacity:0.99215686;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g1089"
+         transform="translate(-33.68397,-0.26703673)">
+        <g
+           id="g959">
+          <path
+             d="m 95.911607,68.4725 a 8.388711,8.388711 0 0 1 -9.308644,-3.014647 8.388711,8.388711 0 0 1 -0.120061,-9.783892 8.388711,8.388711 0 0 1 9.231865,-3.242162"
+             sodipodi:open="true"
+             sodipodi:end="4.9973172"
+             sodipodi:start="1.2613268"
+             sodipodi:ry="8.388711"
+             sodipodi:rx="8.388711"
+             sodipodi:cy="60.482292"
+             sodipodi:cx="93.356796"
+             sodipodi:type="arc"
+             id="path1428"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+          <path
+             transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ebebeb;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+             id="path1430"
+             sodipodi:type="arc"
+             sodipodi:cx="100.17551"
+             sodipodi:cy="60.42551"
+             sodipodi:rx="9.1605988"
+             sodipodi:ry="9.1605988"
+             sodipodi:start="2.0627022"
+             sodipodi:end="4.1887902"
+             sodipodi:open="true"
+             d="m 95.848895,68.499976 a 9.1605988,9.1605988 0 0 1 -4.832837,-7.929309 9.1605988,9.1605988 0 0 1 4.579149,-8.078468" />
+        </g>
+      </g>
+    </g>
     <rect
-       x="-158"
-       width="32"
-       height="32"
-       rx="0"
+       style="color:#333333;opacity:0;fill:#333333;stroke-width:2"
+       id="rect92"
        ry="0"
-       color="#333333"
-       opacity="0"
-       stroke-width="2"
-       id="rect17" />
+       rx="0"
+       height="32"
+       width="32"
+       y="0"
+       x="-158" />
     <path
-       d="m-142 0c-8.8276 0-16 7.1724-16 16s7.1724 16 16 16 16-7.1724 16-16-7.1724-16-16-16z"
-       color="#000000"
-       opacity="0"
+       style="color:#000000;overflow:visible;opacity:0;fill:#333333"
+       inkscape:connector-curvature="0"
+       id="path94"
        overflow="visible"
-       id="path19" />
-    <path
-       d="m-142 1a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm3.5527 6.6172a0.50005 0.50005 0 0 1 0.24609 0.07031c0.83611 0.45727 1.5777 1.0364 2.207 1.7051 1.8881 2.0061 2.779 4.8273 2.2812 7.6426-0.6637 3.7537-3.6511 6.6708-7.4199 7.2422-3.698 0.56065-7.3412-1.2619-9.127-4.5312a0.50005 0.50005 0 0 1-0.14258-0.2793 0.50005 0.50005 0 0 1 0-2e-3 0.50005 0.50005 0 0 1 0.81055-0.51172c2.9651 0.83486 6.1527 0.0418 8.3711-2.1074 2.2582-2.1877 3.1536-5.4259 2.3398-8.4629a0.50005 0.50005 0 0 1 0.4336-0.76562zm0.74414 1.582c0.45697 3.059-0.56943 6.1826-2.8223 8.3652-2.2164 2.1472-5.3041 3.0852-8.3008 2.5879 1.7145 2.3406 4.6075 3.5798 7.543 3.1348 3.3484-0.50764 5.9963-3.0928 6.5859-6.4277 0.52124-2.948-0.67011-5.8933-3.0059-7.6602z"
-       fill="#ff8200"
-       id="path23" />
+       d="m -142,0 c -8.8276,0 -16,7.1724 -16,16 0,8.8276 7.1724,16 16,16 8.8276,0 16,-7.1724 16,-16 0,-8.8276 -7.1724,-16 -16,-16 z" />
   </g>
 </svg>
