@@ -18,14 +18,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg85"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-x="0"
      inkscape:cy="27.885969"
      inkscape:cx="28.144639"
      inkscape:zoom="4.2150193"
      showgrid="false"
      id="namedview87"
-     inkscape:window-height="998"
+     inkscape:window-height="935"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -222,33 +222,6 @@
          stdDeviation="0.093859583"
          id="feGaussianBlur931" />
     </filter>
-    <radialGradient
-       r="1.8772"
-       cy="3.9956"
-       cx="8.4727"
-       gradientTransform="matrix(1.1816,1.0623e-7,-1.0451e-7,1.1624,-1.5383,-0.64906)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1011"
-       xlink:href="#radialGradient1082"
-       inkscape:collect="always" />
-    <radialGradient
-       r="1.8772"
-       cy="3.9956"
-       cx="8.4727"
-       gradientTransform="matrix(1.1816,1.0623e-7,-1.0451e-7,1.1624,-1.5383,-0.64906)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1013"
-       xlink:href="#radialGradient1082"
-       inkscape:collect="always" />
-    <radialGradient
-       r="1.8772"
-       cy="3.9956"
-       cx="8.4727"
-       gradientTransform="matrix(1.1816,1.0623e-7,-1.0451e-7,1.1624,-1.5383,-0.64906)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1015"
-       xlink:href="#radialGradient1082"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient1485"
        x1="-112.01"
@@ -376,25 +349,6 @@
        cx="8.4727"
        cy="3.9956"
        r="1.8772" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1005"
-       id="linearGradient1048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99998,0,0,0.99998,-0.035203,0.006595)"
-       x1=".73911"
-       y1="16.296"
-       x2="16.388"
-       y2=".64687" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1072"
-       id="linearGradient1050"
-       gradientUnits="userSpaceOnUse"
-       x1="8.397"
-       y1="13.274"
-       x2="8.397"
-       y2="3.3723" />
   </defs>
   <style
      id="style69"
@@ -1399,112 +1353,6 @@
          stroke-linecap="round"
          stroke-width="0.52916"
          id="path956" />
-    </g>
-  </g>
-  <g
-     transform="matrix(0.41666686,0,0,0.41666686,9.5933565,9.6249166)"
-     id="g1009">
-    <path
-       style="fill:url(#linearGradient1048)"
-       d="m 16.404,8.4664 c 0,0.95152 -0.16749,1.8638 -0.47463,2.7094 -0.2135,0.58767 -0.49438,1.1433 -0.83391,1.6572 -0.14222,0.21608 -0.29513,0.42474 -0.45745,0.62528 -0.51964,0.64178 -1.1372,1.2007 -1.8304,1.6543 -0.2553,0.16717 -0.52064,0.32009 -0.79535,0.45711 -1.0668,0.53388 -2.2711,0.8342 -3.5456,0.8342 -1.2745,0 -2.4788,-0.30032 -3.5456,-0.83422 C 4.64633,15.43262 4.38067,15.27971 4.12537,15.11256 3.42332,14.65284 2.79837,14.08516 2.27457,13.43276 2.11195,13.2306 1.95934,13.02002 1.81712,12.802 1.48666,12.29662 1.21292,11.7513 1.00364,11.175 0.69654,10.32973 0.52935,9.4178 0.52935,8.4666 c 0,-4.3837 3.5536,-7.9373 7.9373,-7.9373 2.2005,0 4.1916,0.89546 5.6294,2.3416 0.41435,0.41661 0.78273,0.87927 1.0963,1.3795 0.29644,0.47106 0.54426,0.9758 0.73703,1.5068 0.30718,0.84557 0.47465,1.7579 0.47465,2.7094 z"
-       fill="url(#linearGradient1005)"
-       stroke-width="0.031006"
-       id="path938" />
-    <g
-       transform="matrix(1.0909,0,0,1.0909,-24.588,0.20877)"
-       fill="#5e4aa6"
-       stroke-width="0.26458"
-       id="g948">
-      <circle
-         cx="-330.35001"
-         cy="-328.38"
-         r="0"
-         id="circle940" />
-      <circle
-         cx="-312.10999"
-         cy="-326.25"
-         r="0"
-         id="circle942" />
-      <circle
-         cx="-306.01999"
-         cy="-333.07001"
-         r="0"
-         id="circle944" />
-      <circle
-         cx="-308.84"
-         cy="-326.01001"
-         r="0"
-         id="circle946" />
-    </g>
-    <circle
-       style="stroke:url(#linearGradient1050)"
-       cx="8.4665003"
-       cy="8.4665003"
-       r="4.6279001"
-       fill="none"
-       stroke="url(#linearGradient1072)"
-       stroke-width="0.79373"
-       id="circle950" />
-    <g
-       id="g972">
-      <g
-         transform="translate(-0.0062306)"
-         id="g956">
-        <circle
-           cx="8.4727001"
-           cy="4.1419001"
-           r="1.8772"
-           fill="#0074d6"
-           filter="url(#filter1106)"
-           id="circle952" />
-        <circle
-           style="fill:url(#radialGradient1011)"
-           cx="8.4727001"
-           cy="3.9956"
-           r="1.8772"
-           fill="url(#radialGradient1082)"
-           id="circle954" />
-      </g>
-      <g
-         transform="translate(0.13727)"
-         id="g970">
-        <g
-           transform="translate(-4.4485,6.601)"
-           id="g962">
-          <circle
-             cx="8.4727001"
-             cy="4.1419001"
-             r="1.8772"
-             fill="#0074d6"
-             filter="url(#filter1106)"
-             id="circle958" />
-          <circle
-             style="fill:url(#radialGradient1013)"
-             cx="8.4727001"
-             cy="3.9956"
-             r="1.8772"
-             fill="url(#radialGradient1082)"
-             id="circle960" />
-        </g>
-        <g
-           transform="translate(4.1615,6.601)"
-           id="g968">
-          <circle
-             cx="8.4727001"
-             cy="4.1419001"
-             r="1.8772"
-             fill="#0074d6"
-             filter="url(#filter1106)"
-             id="circle964" />
-          <circle
-             style="fill:url(#radialGradient1015)"
-             cx="8.4727001"
-             cy="3.9956"
-             r="1.8772"
-             fill="url(#radialGradient1082)"
-             id="circle966" />
-        </g>
-      </g>
     </g>
   </g>
   <g
