@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SimpleNote" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="43" x2="31.45" y1="12" y2="49" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0059ff" offset="0"/>
+   <stop stop-color="#31fbff" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.03096" y="-.043001" width="1.0619" height="1.086" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.4560791"/>
+  </filter>
+  <linearGradient id="linearGradient12717" x1="3.5809" x2="53.374" y1="10.482" y2="58.376" gradientTransform="matrix(1 0 0 1 .10957 1.0034)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafafa" offset="0"/>
+   <stop stop-color="#f3f3f3" stop-opacity=".99522" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="rotate(-6.4422)" x="1.7635" y="8.9444" width="52.888" height="52.888" ry="4.4112" fill="url(#linearGradient12717)" stroke-width="3.6343"/>
+ <path d="m45.971 19.545-16.971 16.971-9.9004-9.9004-4.2422 4.2422 14.143 14.143 21.213-21.213z" fill-rule="evenodd" filter="url(#f)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <path d="m45.971 19.545-16.971 16.971-9.9004-9.9004-4.2422 4.2422 14.143 14.143 21.213-21.213z" fill="url(#b)" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+</svg>
