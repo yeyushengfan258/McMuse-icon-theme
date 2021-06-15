@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="337.81" x2="338" y1="551.87" y2="547.47" gradientTransform="matrix(1.5182 0 0 1.5182 -504.52 -826.39)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff9300" offset="0"/>
+   <stop stop-color="#ffd702" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="400.56" x2="400.56" y1="546.93" y2="516.48" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3e46" offset="0"/>
+   <stop stop-color="#47606a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient881" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="matrix(.51336 0 0 .51336 -197.18 -264.59)">
+  <circle cx="400.57" cy="531.8" r="0" fill="url(#linearGradient881)"/>
+  <g transform="matrix(1.0509 0 0 1.0509 -20.353 -26.94)">
+   <circle cx="400.57" cy="531.8" r="14" fill="url(#b)" stroke="url(#b)" stroke-width="1.4274"/>
+   <circle transform="matrix(1.5582 0 0 1.5582 -264.3 -296.91)" cx="400.57" cy="531.8" r="0" fill="url(#linearGradient881)"/>
+  </g>
+ </g>
+ <path d="m6.4835 4.811c-0.5238-0.79708-1.8561 0.079709-1.1387 0.93372 0.6946 0.80847 1.3892 1.6853 2.1066 2.5848l-2.2888 2.9036c-0.64905 0.77431 0.63766 1.708 1.2184 0.87679l2.061-2.7442 2.0952 2.6873c0.61489 0.84263 1.8674 0.02277 1.2412-0.83124l-2.3229-2.8923c0.68321-0.89956 1.4006-1.7764 2.0838-2.5848 0.64905-0.74015-0.50102-1.7308-1.0931-0.9565l-1.9813 2.4823z" fill="url(#c)" stroke-width="1.5182"/>
+</svg>
