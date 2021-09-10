@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Apps-Opera" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="-238.16" cy="1.6791" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient12717" x1="3.5809" x2="53.374" y1="10.482" y2="58.376" gradientTransform="matrix(1 0 0 1 .10957 1.0034)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafafa" offset="0"/>
+   <stop stop-color="#f3f3f3" stop-opacity=".99522" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+ <circle cx="-1337.7" cy="-1263.8" r="0" fill="#5e4aa6"/>
+ <rect transform="rotate(-6.4422)" x="1.7635" y="8.9444" width="52.888" height="52.888" ry="4.4112" fill="url(#linearGradient12717)" stroke-width="3.6343"/>
+ <g transform="matrix(1.9619 0 0 1.9619 .62317 -517.23)">
+  <g transform="matrix(.12384 0 0 .12333 .93589 263.79)" fill="#b5b5b5">
+   <path transform="matrix(2.1365 0 0 2.1453 289.48 25.923)" d="m-113.26 14.719 11.609 26.08c8.0901-5.1987 16.47-8.4418 25.887-4.6543zm37.496 21.426 6.8164 3.8945c-2.336-1.7312-4.6047-3.005-6.8164-3.8945zm7.0234 3.7949c-1.6297 8.4457 0.18433 18.326-10.1 23.166l34.934 20.15z" fill="#b5b5b5" fill-rule="evenodd"/>
+  </g>
+  <path d="m15.12 274.75c-0.13512-3e-3 -0.27011-2e-3 -0.40514 2e-3 -0.64815 0.0193-1.2935 0.11811-1.9193 0.30386-1.297 0.41484-2.5938 1.0645-3.4639 2.1373-1.4637 2.0933-1.0462 4.88-0.44648 7.6972 0.33692-0.10022 1.665-0.6097 2.003-0.67024 3.3359-0.59764 6.2239 0.79702 9.5922-1.3539 1.5894-0.66949 2.9156-1.8335 3.9667-3.1802 0.3362-0.45321 1.1131-1.0756 0.33435-1.5374-2.08-1.3934-4.5064-2.1425-6.8823-2.8696-0.88913-0.32489-1.8334-0.50967-2.7792-0.52916zm-0.84904 1.3746a3.3574 3.6785 0 0 1 3.3574 3.6783 3.3574 3.6785 0 0 1-3.3574 3.6783 3.3574 3.6785 0 0 1-3.3574-3.6783 3.3574 3.6785 0 0 1 3.3574-3.6783zm-0.04186 1.7105a1.7079 1.8683 0 0 0-1.7079 1.8686 1.7079 1.8683 0 0 0 1.7079 1.8681 1.7079 1.8683 0 0 0 1.7079-1.8681 1.7079 1.8683 0 0 0-1.7079-1.8686z" fill="#777" fill-rule="evenodd"/>
+ </g>
+</svg>

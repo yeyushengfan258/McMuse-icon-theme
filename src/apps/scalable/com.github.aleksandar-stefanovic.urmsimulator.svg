@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Apps-Opera" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <circle cx="-238.16" cy="1.6791" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient12717" x1="3.5809" x2="53.374" y1="10.482" y2="58.376" gradientTransform="translate(.10957 1.0034)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafafa" offset="0"/>
+   <stop stop-color="#f3f3f3" stop-opacity=".99522" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+ <circle cx="-1337.7" cy="-1263.8" r="0" fill="#5e4aa6"/>
+ <rect transform="rotate(-6.4422)" x="1.7635" y="8.9444" width="52.888" height="52.888" ry="4.4112" fill="url(#linearGradient12717)" stroke-width="3.6343"/>
+ <g transform="matrix(.50958 0 0 .50958 11.349 4.4654)" fill="#6e3b91">
+  <path d="m21.903 38.807 5.0606 25.804q1.1048 5.8179-0.4297 9.3355-1.5395 3.4921-5.5448 4.2776-4.075 0.79914-6.8469-1.9005-2.7545-2.7031-3.9142-8.6165l-5.0254-25.625 5.1547-1.0109 5.0305 25.651q0.62254 3.1744 1.5852 4.3945 0.96266 1.2202 2.7912 0.86158 1.8285-0.35868 2.2466-1.8229 0.41307-1.49-0.17197-4.5653l-5.0556-25.779z" enable-background="new"/>
+  <path d="m38.139 60.186-2.5425 0.49863 2.6709 13.619-5.1198 1.004-7.3097-37.273 8.1674-1.6017q3.8486-0.75477 6.5157 1.7794 2.6795 2.5051 3.7388 7.9065 1.4559 7.4238-1.6362 11.114l7.4328 14.386 0.07026 0.3583-5.503 1.0792zm-3.7725-5.7732 2.9082-0.57037q1.5325-0.30047 2.0075-1.9355 0.47004-1.6606-0.02192-4.1694-1.0995-5.6063-4.0773-5.0223l-2.9953 0.58741z" enable-background="new"/>
+  <path d="m52.291 32.847 10.075 26.017-0.51495-27.892 6.6871-1.3114 7.3097 37.273-5.1373 1.0075-1.978-10.086-2.5772-15.631-0.04214 26.619-3.4829 0.68307-10.093-24.631 3.5176 15.447 1.978 10.086-5.1198 1.0041-7.3097-37.273z" enable-background="new"/>
+ </g>
+</svg>

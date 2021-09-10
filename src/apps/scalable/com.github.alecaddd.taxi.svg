@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Apps-Opera" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="-238.16" cy="1.6791" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient4578" x1="-5.1659" x2="-5.1659" y1="1.6017" y2="17.406" gradientTransform="matrix(3.7796,0,0,3.7796,51.934,-3.889)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fac765" offset="0"/>
+   <stop stop-color="#f78b18" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4582" x1="-5.1659" x2="-5.1659" y1="1.6017" y2="17.406" gradientTransform="matrix(3.1497 0 0 3.1497 48.611 2.0924)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9ab2c" offset="0"/>
+   <stop stop-color="#ee6708" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+ <circle cx="-1337.7" cy="-1263.8" r="0" fill="#5e4aa6"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient4578)"/>
+ <circle cx="32" cy="32" r="25" fill="url(#linearGradient4582)" stroke-width="1.1111"/>
+ <path d="m14.5 27v5h5v-5zm5 5v5h5v-5zm5 0h5v-5h-5zm5 0v5h5v-5zm5 0h5v-5h-5zm5 0v5h5v-5zm5 0h5v-5h-5z" color="#000000" enable-background="accumulate" fill="#fff"/>
+</svg>
