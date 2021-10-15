@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient3645" cx="4.5" cy="31.989" r="27.5" gradientTransform="matrix(0,2,-1.9959,0,68.346,-4.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4bae4f" offset="0"/>
+   <stop stop-color="#4bae4f" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4082" cx="4.5" cy="59.5" r="27.5" gradientTransform="matrix(2,0,0,1.9992,-68.5,-59.451)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fecd38" offset="0"/>
+   <stop stop-color="#fecd38" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4086" cx="4.5" cy="31.989" r="27.5" gradientTransform="matrix(0,2,-1.9959,0,4.346,-4.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#248afd" offset="0"/>
+   <stop stop-color="#248afd" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient1414" cx="4.5" cy="59.5" r="27.5" gradientTransform="matrix(2,0,0,1.9992,-4.5,-59.451)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c2352a" offset="0"/>
+   <stop stop-color="#c2352a" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g stroke-width="3.4646">
+  <rect x="4.5" y="4.5" width="55" height="55" ry="5" fill="#a05a2c"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="5" fill="url(#radialGradient3645)"/>
+  <rect transform="scale(-1,1)" x="-59.5" y="4.5" width="55" height="55" ry="5" fill="url(#radialGradient4082)"/>
+  <rect transform="scale(-1,1)" x="-59.5" y="4.5" width="55" height="55" ry="5" fill="url(#radialGradient4086)"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="5" fill="url(#radialGradient1414)"/>
+ </g>
+ <g transform="translate(-51.334 .6155)">
+  <rect x="60.718" y="8.769" width="45.231" height="45.231" rx="0" ry="4" opacity=".5" stroke-width=".94231"/>
+  <path d="m66.487 16.492v1.7231h1.7231v10.338h-1.7231v1.7231h8.6154v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm13.785 0v1.7231h-1.7231v10.338h1.7231v1.7231h6.8923v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm12.062 0v1.7231h-1.7231v3.4462h1.7231v1.7231h3.4462v1.7231h1.7231v3.4462h-3.4462v-3.4462h-3.4462v3.4462h1.7231v1.7231h6.8923v-1.7231h1.7231v-3.4462h-1.7231v-1.7231h-1.7231v-1.7231h-3.4462v-3.4462h3.4462v3.4462h3.4462v-3.4462h-1.7231v-1.7231zm-20.677 1.7231h1.7231v10.338h-1.7231zm10.338 0h3.4462v10.338h-3.4462zm-15.508 15.508v1.7231h1.7231v10.338h-1.7231v1.7231h8.6154v-1.7231h1.7231v-5.1692h-1.7231v-1.7231h1.7231v-3.4462h-1.7231v-1.7231zm13.785 0v1.7231h-1.7231v10.338h1.7231v1.7231h6.8923v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm8.6154 0v1.7231h1.7231v3.4462h1.7231v3.4462h-1.7231v3.4462h-1.7231v1.7231h3.4462v-1.7231h1.7231v-1.7231h1.7231v1.7231h1.7231v1.7231h3.4462v-1.7231h-1.7231v-3.4462h-1.7231v-3.4462h1.7231v-3.4462h1.7231v-1.7231h-3.4462v1.7231h-1.7231v1.7231h-1.7231v-1.7231h-1.7231v-1.7231zm-17.231 1.7231h1.7231v3.4462h-1.7231zm10.338 0h3.4462v10.338h-3.4462zm-10.338 5.1692h1.7231v5.1692h-1.7231z" fill="#e4e4e4" stroke-width=".86154"/>
+ </g>
+</svg>

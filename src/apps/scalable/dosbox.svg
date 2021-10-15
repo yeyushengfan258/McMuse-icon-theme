@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1138" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1628" x1="4.5" x2="59.5" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b76728" offset="0"/>
+   <stop stop-color="#c4824a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="5" fill="url(#linearGradient1628)" stroke-width="3.4646"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1138)" stroke-width="1.5715"/>
+ <g transform="translate(-51.334 .6155)">
+  <rect x="60.718" y="8.769" width="45.231" height="45.231" rx="0" ry="4" opacity=".5" stroke-width=".94231"/>
+  <path d="m66.487 16.492v1.7231h1.7231v10.338h-1.7231v1.7231h8.6154v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm13.785 0v1.7231h-1.7231v10.338h1.7231v1.7231h6.8923v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm12.062 0v1.7231h-1.7231v3.4462h1.7231v1.7231h3.4462v1.7231h1.7231v3.4462h-3.4462v-3.4462h-3.4462v3.4462h1.7231v1.7231h6.8923v-1.7231h1.7231v-3.4462h-1.7231v-1.7231h-1.7231v-1.7231h-3.4462v-3.4462h3.4462v3.4462h3.4462v-3.4462h-1.7231v-1.7231zm-20.677 1.7231h1.7231v10.338h-1.7231zm10.338 0h3.4462v10.338h-3.4462zm-15.508 15.508v1.7231h1.7231v10.338h-1.7231v1.7231h8.6154v-1.7231h1.7231v-5.1692h-1.7231v-1.7231h1.7231v-3.4462h-1.7231v-1.7231zm13.785 0v1.7231h-1.7231v10.338h1.7231v1.7231h6.8923v-1.7231h1.7231v-10.338h-1.7231v-1.7231zm8.6154 0v1.7231h1.7231v3.4462h1.7231v3.4462h-1.7231v3.4462h-1.7231v1.7231h3.4462v-1.7231h1.7231v-1.7231h1.7231v1.7231h1.7231v1.7231h3.4462v-1.7231h-1.7231v-3.4462h-1.7231v-3.4462h1.7231v-3.4462h1.7231v-1.7231h-3.4462v1.7231h-1.7231v1.7231h-1.7231v-1.7231h-1.7231v-1.7231zm-17.231 1.7231h1.7231v3.4462h-1.7231zm10.338 0h3.4462v10.338h-3.4462zm-10.338 5.1692h1.7231v5.1692h-1.7231z" fill="#e4e4e4" stroke-width=".86154"/>
+ </g>
+</svg>
