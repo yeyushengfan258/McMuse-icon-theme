@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient895" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -717.61 -1105.6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter1275" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.04134033"/>
+  </filter>
+  <linearGradient id="linearGradient1225" x1="33.176" x2="33.176" y1="58.989" y2="19.85" gradientTransform="translate(142.33 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#35c559" offset="0"/>
+   <stop stop-color="#9bd4a4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="140.77" cy="33.942" r="0" fill="url(#linearGradient895)" stroke-width="1.5715"/>
+ <rect x="4.4995" y="4.4995" width="55.001" height="55.001" ry="4.5877" fill="url(#linearGradient1225)" stroke-width="3.7796"/>
+ <path d="m9.0878 4.4999c-2.5416 0-4.5879 2.0463-4.5879 4.5879v12.396h55v-12.396c0-2.5416-2.0463-4.5879-4.5879-4.5879h-45.824z" fill="#fbfffb" stroke-width="3.7796"/>
+ <g transform="translate(-.4018 .97024)">
+  <circle transform="matrix(3.2679 0 0 3.2832 -32.607 1.805)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
+  <circle cx="12.081" cy="12.28" r="2.6371" fill="#ff295f" stroke-width="3.7796"/>
+ </g>
+ <g transform="translate(-71.784 9.0876)">
+  <image x="84.784" y="19.227" width="38" height="28" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAcCAYAAAAN3M1lAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAmJJREFUWIW1l9tywjAMRDcJl/7/ z3aAOOkDWrNeZBI6oBmNodjysayLO+CzMsjn9VOG/rtu6Iyr6at9nw6xBbYFQB1tBIAFQBFdZd0Y SqjFD3DowGSbO4B/VuVmNwAXAQWAKfY9xPo55il8A6abj2Hg1eaqCs1DFdl8je8jgCOAUygAXAWc c5/Aplh4jN8I55srhHuXwjn03hz2zqGH+E29Rq9WMEKdAPzEeOwAZJLNGcP+EsrDnmLklRe0t9N4 jGBnAfOrYXAuogTwa6VNwnHDSSCQrK/CRQRjUE4JFK/jFqOCHdBev3pOQdyzvEp3QuMxzzZdXPDI sEuAFQNj7JzsYPV68BwOnlh1flYuXAh2AfCLexYVPDzG4NXvXtO24tPDoGaGxo9WYa1H19DZ5qlH WGYY3HskvUpdzID2VsIKziKYwdOrMx7XvKdXeqJUOG0LmnG+cUEL65Kt39vECdVkq/crh/q09IC9 9TWVvwfHUpJlmRvOslqB3G52lQAwbIGpm4+4x48nyas6qFJkPed7KFVxsCwztfGydnm5YDvTVqbC BLrinkR6kFGgabPWsVUMaPByA7YrgmYFln1We6wemGAXsa09kx3l6XXRy0yeTj97S9JXSVa/snIy iPfolFpmejG2yN80hjiqVzUOe02f3uBrlvaLza+jtySejHB6es26V/VMoTW22GN9bVqeHIyGeDp/ jqjRrEN4KNDWDRZDW5LFGE9IIH3AZXG47FBtZW+DEW7GI3P4utQncqbusZ5nd0v2HNFg9ifvFoCO /vkt6b2Tsn80vgLwLlhvzjcbfCN/9DM6cK1kXSQAAAAASUVORK5CYII= "/>
+  <path d="m106.33 20.737c1.8036 0.06218 3.3663 1.3794 3.6774 3.2313l0.25888 1.5393 0.16575-0.13688 4.4791-3.696c0.22983-0.19071 0.50237-0.32173 0.79525-0.37994 0.99679-0.19748 1.9598 0.46727 2.1278 1.4695l0.96194 5.7279 0.96194 5.727c0.23127 1.3687-1.1058 2.4733-2.4063 1.9881l-5.4411-2.03-0.20207-0.07635 0.25888 1.5412c0.35546 2.1165-1.0618 4.1069-3.1782 4.4624l-14.528 2.4398c-2.1165 0.35543-4.106-1.0627-4.4614-3.1792l-1.9611-11.674c-0.35546-2.1165 1.0627-4.1069 3.1792-4.4624l14.527-2.4388c0.26456-0.04444 0.52735-0.06195 0.78501-0.05309zm-6.3015 5.2995c-0.34862-0.0079-0.70242 0.01711-1.0579 0.07635-3.0675 0.51518-5.1368 3.4193-4.6216 6.4868 0.51518 3.0675 3.4193 5.1368 6.4868 4.6216 2.8421-0.4777 4.865-3.0246 4.6877-5.9011-0.018-0.43462-0.0695-0.69465-0.19835-1.1538-0.67261-2.4311-2.8564-4.0749-5.2967-4.1299z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.8432"/>
+ </g>
+ <g transform="translate(-.46677 .97024)">
+  <circle transform="matrix(3.2679 0 0 3.2832 -24.649 1.805)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
+  <circle cx="20.039" cy="12.28" r="2.6371" fill="#f89c22" stroke-width="3.7796"/>
+ </g>
+ <g transform="translate(-.4018 .97024)">
+  <circle transform="matrix(3.2679 0 0 3.2832 -16.821 1.805)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
+  <circle cx="27.867" cy="12.28" r="2.6371" fill="#2ecc9a" stroke-width="3.7796"/>
+ </g>
+</svg>

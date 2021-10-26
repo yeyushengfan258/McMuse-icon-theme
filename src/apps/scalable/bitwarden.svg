@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter900" x="-.11839" y="-.09929" width="1.2368" height="1.1986" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2825"/>
+  </filter>
+  <linearGradient id="linearGradient910" x1="29" x2="29" y1="19" y2="46" gradientTransform="matrix(1.1507 0 0 1.1507 -2.399 -2.2483)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#dbf6f8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1009" x1="15.656" x2="1.3524" y1="1.2555" y2="15.794" gradientTransform="matrix(3.7796 0 0 3.7796 -2.5e-6 -1e-7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#37beff" offset="0"/>
+   <stop stop-color="#00a0ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m9.0879 4.5c-2.5416 0-4.5879 2.0445-4.5879 4.5859v45.826c0 2.5416 2.0465 4.5879 4.5879 4.5879h45.824c2.5416 0 4.5879-2.0461 4.5879-4.5879v-45.826c0-2.5416-2.0446-4.5859-4.5859-4.5859z" fill="url(#linearGradient1009)" stroke-width="3.7796"/>
+ <g transform="translate(-2.422 -2.3146)">
+  <path transform="matrix(1.1507 0 0 1.1507 -2.399 -2.2483)" d="m20.3 18c-0.7202 0-1.3 0.57608-1.3 1.2917v15.5c0 6.2 6.5 11.238 12.54 14.105 0.16195 0.07685 0.31244 0.10344 0.45958 0.10344 0.14713 0 0.29761-0.02661 0.45958-0.10346 6.0404-2.867 12.54-7.9048 12.54-14.105v-15.5c0-0.71558-0.5798-1.2917-1.3-1.2917zm11.7 4h9v13.437c0 2.7149-5.1 7.5787-9 9.0416z" filter="url(#filter900)" opacity=".15" stroke-width="1.2958" style="paint-order:normal"/>
+  <path d="m20.96 17.313c-0.82871 0-1.4959 0.66288-1.4959 1.4863v17.835c0 7.1342 7.4794 12.931 14.429 16.23 0.18635 0.08843 0.35952 0.11902 0.52882 0.11902 0.1693 0 0.34245-0.03061 0.52882-0.11905 6.9505-3.299 14.429-9.0958 14.429-16.23v-17.835c0-0.8234-0.66716-1.4863-1.4959-1.4863zm13.463 4.6027h10.356v15.462c0 3.124-5.8684 8.7206-10.356 10.404z" fill="url(#linearGradient910)" stroke-width="1.491" style="paint-order:normal"/>
+ </g>
+</svg>
