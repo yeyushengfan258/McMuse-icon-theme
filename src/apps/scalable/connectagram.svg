@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="h" x1="8.4665" x2="8.4665" y1=".52916" y2="16.404" gradientTransform="matrix(3.7796 0 0 3.7796 -.010395 .008691)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a4e20f" offset="0"/>
+   <stop stop-color="#19b031" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient972" x1="24.911" x2="24.911" y1="15.384" y2="33.316" gradientTransform="matrix(3.7796 0 0 3.7796 64.468 .008691)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#c0f6cc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="31.99" cy="32.009" r="30" fill="url(#h)" stroke-width=".53035"/>
+ <circle cx="32.009" cy="31.992" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <image x="14.799" y="14.655" width="34" height="39" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAnCAYAAABqippxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAu9JREFUWIW1mNty2zAMRKGLY6f/ /62tU9lRH8KVD5egpGSmnMFQaSXhcAmAkIf42Rg619lYO9fVmH/g3CHOgDhAA3QGxAFGm4fIgdYd a4COQOhgLNcjbMDcA/lMjEDrEQhXKscTbMQsGA45fMIe5d+fZd6geyAZwJwYoagKlXjAlmIaT11k IISQo0uxN1xfAOOKOMjfYqPdo/saEIeYAXAr87XMUiVTQ6btEHAAsNoegnhMSImb2RVqUAkGn4zx I+faJi4gjRFCXIvzd5jUyBTwjOACPduqTJuTm7klAvlVIG5QwjNC5qm5xitbmCnV8K0R8RyvuJAS ipERL13iKwiVDZ6WGp49rCcbyGCmbXmLV3AqQKd4bcESER8RcS/zAidcnJRhfFC5pqD51hDignu1 untE/Cl2L8q4Ip7SGcymiB7IYoT1QlvyLE4/CsRvU4QxkqW1YKtyv6cITYVIamhbaIqRHghhmsDN YsTLuv6mvApOBqrk1n0C8eGncHroeWln3mslnq4PXGuVeyD8/7QNcGWyPoPSynG2wm4n5gAZiI8M go6yZuewE+uNPZCsVBMwU23oPJO9uwtyprXzNPdzYzXnpxtrV8QD0kuxd2nKrKo44bqXNZo3Bedo V89+gecC05qNEsv6ELWKZ+vIOkUtbVZZ2YWFvYhq8ayiWnyenT/ViSnaIMyqK0G4Oj5HCD8evJur ICLaYOWW6DzhWSPwOb7aAoFM0W6Tr1zvpbKVInwo26bsGyaS+7RqthAyqaqWUQveYnPCS3tAvXrR A1Gnr5lb4o3zFmdUxEevzGswRrIPMD8wBcADMgXpOZTToybZ4SPquOOJ3XRqHqwafFh/sxf57neN AAThB2ZaWeXY1SBIr8ZkSqijk7HJ7pb4DMaP/iXq+uJnDp/vfft6J9/9COfLHOQB50e/BjBL9n4N ODwduff/4/eRLUaOQHgPgTj3UnyvrWgaqTMgPSBC7I3McdMYfQek99zp5icD0PgHDAuoJ4PLqQ0A AAAASUVORK5CYII= "/>
+ <g transform="matrix(1.3861 0 0 1.3861 -1.2837 -1.2671)" fill="url(#linearGradient972)">
+  <path d="m32.074 32.423c-0.89715 0.4655-1.8324 0.81673-2.8057 1.0537-0.97332 0.23698-1.9889 0.35547-3.0469 0.35547-3.1569-1e-6 -5.6579-0.88021-7.5029-2.6406-1.8451-1.7689-2.7676-4.1641-2.7676-7.1855-1e-6 -3.0299 0.92252-5.4251 2.7676-7.1855 1.845-1.7689 4.346-2.6533 7.5029-2.6533 1.0579 2e-5 2.0736 0.11851 3.0469 0.35547 0.97329 0.237 1.9085 0.58824 2.8057 1.0537v3.9229c-0.90562-0.61782-1.7985-1.0706-2.6787-1.3584-0.88022-0.28774-1.807-0.43162-2.7803-0.43164-1.7435 1.5e-5 -3.1146 0.55861-4.1133 1.6758-0.9987 1.1172-1.4981 2.6576-1.498 4.6211-6e-6 1.9551 0.49934 3.4912 1.498 4.6084 0.99869 1.1172 2.3698 1.6758 4.1133 1.6758 0.9733 4e-6 1.9001-0.14388 2.7803-0.43164 0.88019-0.28776 1.7731-0.74056 2.6787-1.3584v3.9229" fill="url(#linearGradient972)" stroke-width=".72143"/>
+ </g>
+</svg>
