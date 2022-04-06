@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1954" x1="-19" x2="-19" y1="6" y2="47" gradientTransform="translate(-19.812,1.5441)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#96b5ff" offset="0"/>
+   <stop stop-color="#7cabff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6915" x1="3" x2="-1" y1="5" y2="9" gradientTransform="rotate(180,-11.906,10.772)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a4c0ff" offset="0"/>
+   <stop stop-color="#96b7fe" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(56.812 -3.0441)">
+  <path d="m-47.812 5.5441c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-28l-12-12z" fill="url(#linearGradient1954)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7841" style="paint-order:stroke fill markers"/>
+  <image x="-29.812" y="4.5441" width="16" height="16" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAS1JREFUOI2d0r1qAkEQB/D5uLtc 4R2i2BwWC0qadClShWCZJqWPkXfw0awDQppYW0iuEGwkmLtz55/CIocxJOvAwO4Wv53ZWaJjMF0Y SjQT59zVaHTHZblAKCCTCUmep3kUWW88fk5Cq9F+/1oBzgHrJkktnc59vd2+2L8rICJK0wMDlqhy L8s++iGVyPcyJkCDEWlvAONQRE4PQpEfQChyFghBJMsK1LUZUXMRIoPBG0SiWsTOzv4vRJfLJTn3 AO8tNaOY+VxbYCJVESRxXHP7sykR0Xr9aEWx8yIcMbMAHoAA4FYSAGNmiVXJhsPbuiwXpscb5ijL p8Y523vfVIBVcWyfqrZvpwjto0iqw0F8t1s1q9WrP31Vnk6nstnc8G73/uvss6zAfE5GNLMv3DGy x2V2bBMAAAAASUVORK5CYII= "/>
+  <path d="m-15.812 17.544-12-12v8c0 2.216 1.784 4 4 4z" fill="url(#linearGradient6915)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7841" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m23.955 16-9.4832 5.5076-0.037362 10.985 9.5654 5.5076 9.5654-5.4982-0.0411-10.994zm0 1.0839v7.7417l0.9749 0.58721-0.93003 0.53615-7.6523-4.4489zm8.6537 5.0022v9.861l-8.6088 4.9527v-9.861z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width=".95654" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+</svg>
