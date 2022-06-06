@@ -1,21 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="c" x1="25.132" x2="25.132" y1=".98521" y2="47.013" gradientTransform="matrix(1 0 0 .95617 2e-7 -.53992)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#81cc77" offset="0"/>
-   <stop stop-color="#ccf7b9" offset="1"/>
+  <linearGradient id="linearGradient1954" x1="-19" x2="-19" y1="9.9734" y2="48.082" gradientTransform="translate(37,-1.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b0cadd" offset="0"/>
+   <stop stop-color="#81adcc" offset="1"/>
   </linearGradient>
-  <linearGradient id="b" x1="91.308" x2="95.182" y1="98.192" y2="102.07" gradientTransform="matrix(.56521 0 0 -.60266 -19.236 70.719)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#baf5a0" offset="0"/>
-   <stop stop-color="#89d27f" offset="1"/>
+  <linearGradient id="linearGradient6915" x1="3" x2="-1" y1="5" y2="9" gradientTransform="rotate(180,16.5,9.25)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b7cfe1" offset="0"/>
+   <stop stop-color="#a8c6da" offset="1"/>
   </linearGradient>
-  <radialGradient id="a" cx="26.53" cy="23.566" r="17.5" gradientTransform="matrix(-1.7302 -.0033869 .0034626 -1.7689 87.322 43.647)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".65926" offset="0"/>
-   <stop stop-color="#cecece" stop-opacity="0" offset="1"/>
-  </radialGradient>
  </defs>
- <path d="m6.5 1.8722c5.8015 0 21.021 0.00228 21.021 0.00228l13.979 14.352 3.6e-5 29.651h-35v-44.006z" fill="none" stroke="#000" stroke-opacity=".54902"/>
- <path d="m6.5 1.8722c5.8015 0 20.954 0.00228 20.954 0.00228l14.046 14.33 3.6e-5 29.673h-35v-44.006z" fill="url(#c)"/>
- <g transform="matrix(.037149 0 0 .037149 12.331 12.604)" fill="#fff">
+ <path d="m9 2.5c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-28l-12-12z" fill="url(#linearGradient1954)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7841" style="paint-order:stroke fill markers"/>
+ <image x="27" y="1.5" width="16" height="16" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAS1JREFUOI2d0r1qAkEQB/D5uLtc 4R2i2BwWC0qadClShWCZJqWPkXfw0awDQppYW0iuEGwkmLtz55/CIocxJOvAwO4Wv53ZWaJjMF0Y SjQT59zVaHTHZblAKCCTCUmep3kUWW88fk5Cq9F+/1oBzgHrJkktnc59vd2+2L8rICJK0wMDlqhy L8s++iGVyPcyJkCDEWlvAONQRE4PQpEfQChyFghBJMsK1LUZUXMRIoPBG0SiWsTOzv4vRJfLJTn3 AO8tNaOY+VxbYCJVESRxXHP7sykR0Xr9aEWx8yIcMbMAHoAA4FYSAGNmiVXJhsPbuiwXpscb5ijL p8Y523vfVIBVcWyfqrZvpwjto0iqw0F8t1s1q9WrP31Vnk6nstnc8G73/uvss6zAfE5GNLMv3DGy x2V2bBMAAAAASUVORK5CYII= "/>
+ <path d="m41 14.5-12-12v8c0 2.216 1.784 4 4 4z" fill="url(#linearGradient6915)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7841" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(.037149 0 0 .037149 11.33 17.609)" fill="#fff">
   <g fill="#fff">
    <g fill="#fff">
     <g fill="#fff">
@@ -24,6 +22,4 @@
    </g>
   </g>
  </g>
- <path d="m6.5 1.8943c5.8015 0 20.954 0.0023 20.954 0.0023l14.046 14.33 4e-5 29.673h-35v-44.006z" fill="url(#a)"/>
- <path d="m29.296 14.15c-0.04524-3.4428 0.09264-9.2334-1.8427-12.276 0 0 12.641 12.709 13.994 14.29 0 0-2.3483-1.8776-12.152-2.0143z" fill="url(#b)"/>
 </svg>
