@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="48"
    height="48"
-   sodipodi:docname="text-x-python.svg">
+   sodipodi:docname="text-x-python.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -940,59 +940,72 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      id="namedview4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="22.684458"
-     inkscape:cy="23.069223"
+     inkscape:zoom="11.313709"
+     inkscape:cx="37.167298"
+     inkscape:cy="18.64994"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="0,1"
        position="89.519531,126.00391"
-       id="guide2987" />
+       id="guide2987"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="88.996094,125.35156"
-       id="guide2989" />
+       id="guide2989"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="8,109.55078"
-       id="guide2991" />
+       id="guide2991"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="8.6953125,110"
-       id="guide2993" />
+       id="guide2993"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="28.867188,13.003906"
-       id="guide2995" />
+       id="guide2995"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="28,12.617188"
-       id="guide2997" />
+       id="guide2997"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="116.99609,31.730469"
-       id="guide2999" />
+       id="guide2999"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="117.36719,32.003906"
-       id="guide3001" />
+       id="guide3001"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="116.4185,7.0047765"
-       id="guide4128" />
+       id="guide4128"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="114.99609,6.6953125"
-       id="guide4130" />
+       id="guide4130"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="g3838"
@@ -1095,7 +1108,7 @@
      d="M 4.2901773,7.8369859 33.907378,1.9849629 44.145915,36.357201 11.603419,43.304776 z"
      style="fill:url(#radialGradient3232);fill-opacity:1;stroke:none" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
+     style="fill:#ffd43b;fill-opacity:1;stroke:none;opacity:1"
      d="m 28.921,15.688486 -0.105203,2.627229 c 0.322824,1.909565 -0.695248,3.276338 -2.585235,3.595854 l -5.512513,1.309608 c -1.553625,0.26265 -2.620263,1.763888 -2.363334,3.283661 l 0.897275,5.307543 c 0.254123,1.503186 1.737426,2.14682 3.311397,2.32431 1.884768,0.21239 3.627108,0.01379 5.674733,-0.95935 1.36123,-0.645984 2.633931,-1.683027 2.363333,-3.283661 l -0.479675,-2.837367 2.837365,-0.479675 c 1.650324,-0.278998 2.074723,-1.498919 2.363334,-3.28366 0.299127,-1.837701 -0.0093,-3.50845 -0.953707,-5.64135 -0.679148,-1.535831 -1.65897,-2.603665 -3.311398,-2.324311 z m -1.253807,13.705541 c 0.588652,-0.09952 1.150273,0.304985 1.248769,0.8876 0.09884,0.584687 -0.304594,1.115872 -0.893245,1.215388 -0.586549,0.09917 -1.144281,-0.269533 -1.243126,-0.85422 -0.09849,-0.582615 0.301052,-1.149608 0.887602,-1.248768 z"
      id="path2732"
      inkscape:connector-curvature="0"
@@ -1167,6 +1180,6 @@
      inkscape:connector-curvature="0"
      id="path3310"
      d="m 20.84915,10.186124 c -0.970007,0.168491 -1.87247,0.411878 -2.664339,0.690767 -2.332857,0.820911 -2.617002,1.783168 -2.346404,3.383804 l 0.474032,2.803985 -2.136369,0.361167 c -1.650323,0.278997 -2.923937,1.482537 -3.064331,3.402168 -0.164201,2.200896 0.03626,3.527348 0.953708,5.64135 0.681256,1.573862 1.83362,2.608473 3.483946,2.329475 l 1.969464,-0.33295 -0.244574,-2.259086 c -0.309504,-1.830776 1.426308,-3.811946 3.352035,-4.137502 l 5.089851,-1.169486 c 1.578843,-0.266913 2.625169,-1.734861 2.363333,-3.28366 l -0.891631,-5.274164 c -0.254123,-1.503185 -1.744915,-2.4340901 -3.328328,-2.4244511 -1.002296,0.0063 -2.040389,0.1000681 -3.010393,0.2685831 z m -2.494084,2.104047 c 0.569083,-0.0962 1.11041,0.272281 1.204102,0.826482 0.09336,0.552234 -0.296425,1.080157 -0.865509,1.176364 -0.571119,0.09656 -1.110742,-0.27425 -1.2041,-0.826482 -0.09369,-0.554202 0.294385,-1.079812 0.865507,-1.176364 z"
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
+     style="fill:#347ab4;fill-opacity:1;stroke:none;opacity:1"
      sodipodi:nodetypes="ccscsccsccccsscccscsc" />
 </svg>
